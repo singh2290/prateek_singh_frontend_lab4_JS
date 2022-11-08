@@ -1,0 +1,53 @@
+{
+  "expense": [
+    {
+      "id": 1,
+      "date": "2022-11-01",
+      "product": "iPhone 13",
+      "price": 2000,
+      "payee": "Ravi"
+    },
+    {
+      "id": 2,
+      "date": "2022-11-02",
+      "product": "Tata Nexon",
+      "price": 5000,
+      "payee": "Ravi"
+    },
+    {
+      "id": 3,
+      "date": "2022-11-03",
+      "product": "Cooper",
+      "price": 3000,
+      "payee": "Rahul"
+    },
+    {
+      "date": "2022-11-07",
+      "price": 5000,
+      "payee": "Ravi",
+      "product": "trip to goa",
+      "id": 4
+    },
+    {
+      "date": "2022-11-08",
+      "price": 11000,
+      "payee": "Rahul",
+      "product": "dmart expenses",
+      "id": 5
+    },
+    {
+      "date": "2022-11-08",
+      "price": 3500,
+      "payee": "Ravi",
+      "product": "electricity bill",
+      "id": 6
+    },
+    {
+      "date": "2022-11-02",
+      "price": 123,
+      "payee": "Ravi",
+      "product": "dummy entry",
+      "id": 7
+    }
+  ]
+}
